@@ -11,3 +11,7 @@ PLOTTING TRAINING DATASET
 
 PLOTTING TESTING DATASET
 
+
+![Snip2](https://user-images.githubusercontent.com/90599757/133658385-0f37ef2c-c9d1-46c9-b3a2-cd1ad6a2f160.PNG)
+
+
